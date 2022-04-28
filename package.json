@@ -1,10 +1,11 @@
 {
-  "name": "node.js-todoapp",
+  "name": "todoapp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kairos67/node.js-todoapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kairos67/node.js-todoapp/issues"
+  },
+  "homepage": "https://github.com/kairos67/node.js-todoapp#readme"
 }
